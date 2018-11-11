@@ -10,4 +10,4 @@ Session 18: Classification and Clustering (K-NN and K-Means)
 Session 19: Classification (SVM)
 - 
 - 05_Simple_SVM.ipynb
-- 06_
+- 06_SVM_muffin_vs_cupcake.ipynb (Source: https://github.com/adashofdata/muffin-cupcake and https://youtu.be/N1vOgolbjSc)
